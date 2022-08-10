@@ -42,8 +42,6 @@ namespace ListExercises
             int wordLength = int.Parse(input);
 
             PrintFiveLetter(words, wordLength);
-
-
         }
     }
 }
